@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.result {
+  padding: 20px;
+  margin: auto;
+  width: 600px;
+  background: lavender;
+  border-radius: 8px;
+  text-align: center;
+  min-height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
